@@ -1,0 +1,12 @@
+.idea
+.vscode
+
+app/__pycache__
+
+audio_chunks/*
+data/*
+docs/*
+tmp_audio_chunks/*
+
+notebooks
+models
