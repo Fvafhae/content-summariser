@@ -8,5 +8,6 @@ data/*
 docs/*
 tmp_audio_chunks/*
 
+tmp
 notebooks
 models
